@@ -1,5 +1,0 @@
-1-$AVR_GCC -c *.c -I ../include/
-2- $AVR_AR -rcs libMCAL.a *.o
-3-cd ../
-4-$AVR_GCC main.c -o main.elf -mmcu=atmega32 -I include/ -L MCAL/ -lMCAL 
-<img src="" width="350" title="hover text">

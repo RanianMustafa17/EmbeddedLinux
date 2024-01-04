@@ -1,0 +1,3 @@
+/home/rania/Desktop/Calculator_CMake/build/CMakeFiles/Calc_CMake.dir
+/home/rania/Desktop/Calculator_CMake/build/CMakeFiles/edit_cache.dir
+/home/rania/Desktop/Calculator_CMake/build/CMakeFiles/rebuild_cache.dir
